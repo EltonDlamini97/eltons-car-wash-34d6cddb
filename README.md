@@ -1,606 +1,128 @@
-# Pristine Auto Spa
-
-You are an expert Full-Stack Developer, UI/UX Designer, and Product Designer.
-
-Build a modern, responsive, production-ready website for a premium car wash business.
-
-## Project Name
-
-Sparkle Car Wash
-
-## Objective
-
-Create a professional website that allows customers to:
-
-- Learn about the business
-
-- View available services
-
-- Book appointments online
-
-- View pricing
-
-- Purchase membership plans
-
-- Contact the business
-
-- Leave reviews
-
-- View before-and-after gallery images
-
-The design should feel modern, premium, clean, and trustworthy.
-
-## Technology
-
-- React
-
-- TypeScript
-
-- Tailwind CSS
-
-- Vite
-
-- Responsive Design
-
-- Mobile-first
-
-- Reusable Components
-
-- Dark Mode Support
-
-- SEO Optimized
-
-## Pages
-
-### 1. Home
-
-Include:
-
-- Full-width hero section
-
-- Background image/video of a luxury car wash
-
-- Headline:
-
-  "Your Car Deserves the Best Shine."
-
-- CTA Buttons:
-
-  - Book Now
-
-  - View Services
-
-Sections:
-
-- Why Choose Us
-
-- Services Overview
-
-- Pricing Preview
-
-- Customer Testimonials
-
-- Before & After Gallery
-
-- Membership Plans
-
-- FAQ
-
-- Google Map
-
-- Contact Form
-
-- Footer
-
----
-
-### 2. Services
-
-Display services as cards with icons and images.
-
-Include:
-
-Exterior Wash
-
-Interior Cleaning
-
-Premium Wash
-
-Engine Cleaning
-
-Wax & Polish
-
-Ceramic Coating
-
-Seat Shampoo
-
-Headlight Restoration
-
-Detailing
-
-Fleet Services
-
-Each service should include:
-
-- Image
-
-- Description
-
-- Estimated Time
-
-- Starting Price
-
-- Book Now button
-
----
-
-### 3. Pricing
-
-Display pricing cards.
-
-Example:
-
-Basic Wash
-
-Standard Wash
-
-Premium Wash
-
-Luxury Detail
-
-Fleet Packages
-
-Each package should list:
-
-- Features
-
-- Duration
-
-- Price
-
-- Book Appointment
-
----
-
-### 4. Online Booking
-
-Create a booking form.
-
-Fields:
-
-- Full Name
-
-- Phone Number
-
-- Email
-
-- Vehicle Make
-
-- Vehicle Model
-
-- Vehicle Type
-
-- Registration Number
-
-- Service
-
-- Date
-
-- Time
-
-- Special Requests
-
-Features:
-
-- Calendar
-
-- Available time slots
-
-- Booking confirmation
-
-- Email confirmation placeholder
-
-- Success screen
-
----
-
-### 5. Membership Plans
-
-Create monthly subscriptions.
-
-Silver
-
-Gold
-
-Platinum
-
-Each includes:
-
-- Monthly washes
-
-- Discounts
-
-- Priority Booking
-
-- Free Vacuum
-
-- Loyalty Rewards
-
-Include:
-
-- Compare Plans table
-
-- Subscribe button
-
----
-
-### 6. Gallery
-
-Responsive image gallery.
-
-Categories:
-
-- Before & After
-
-- Interior Cleaning
-
-- Detailing
-
-- Ceramic Coating
-
-Include:
-
-- Lightbox
-
-- Image filtering
-
-- Lazy loading
-
----
-
-### 7. Reviews
-
-Display customer reviews.
-
-Include:
-
-- Star ratings
-
-- Customer photos
-
-- Verified badge
-
-- Average rating
-
-- Leave Review form
-
----
-
-### 8. About Us
-
-Include:
-
-- Company story
-
-- Mission
-
-- Vision
-
-- Meet the Team
-
-- Certifications
-
-- Business statistics
-
----
-
-### 9. Contact
-
-Include:
-
-- Contact Form
-
-- Phone
-
-- Email
-
-- Address
-
-- Google Maps
-
-- WhatsApp button
-
-- Business Hours
-
----
-
-## Admin Dashboard
-
-Create a secure admin dashboard.
-
-Features:
-
-Dashboard Overview
-
-Appointments
-
-Customers
-
-Payments
-
-Memberships
-
-Reviews
-
-Gallery Manager
-
-Services
-
-Pricing
-
-Reports
-
-Settings
-
----
-
-Dashboard Analytics
-
-Today's bookings
-
-Monthly revenue
-
-Top services
-
-Membership sales
-
-Customer growth
-
-Appointment status
-
-Charts
-
-Recent activity
-
----
-
-## Booking Management
-
-Admins can:
-
-- View bookings
-
-- Approve
-
-- Cancel
-
-- Reschedule
-
-- Assign staff
-
-- Print booking
-
----
-
-## Customer Dashboard
-
-Customers can:
-
-- View bookings
-
-- Reschedule appointments
-
-- Cancel appointments
-
-- Download invoices
-
-- Update profile
-
-- Renew memberships
-
-- Track loyalty points
-
----
-
-## Payment Integration
-
-Prepare for:
-
-- Stripe
-
-- PayPal
-
-- Apple Pay
-
-- Google Pay
-
-Display:
-
-- Booking summary
-
-- Taxes
-
-- Total amount
-
-- Payment confirmation
-
----
-
-## Notifications
-
-Email notifications
-
-SMS placeholders
-
-Booking reminders
-
-Membership renewal reminders
-
-Appointment confirmations
-
----
-
-## SEO
-
-Optimize:
-
-- Meta Tags
-
-- Open Graph
-
-- Structured Data
-
-- Sitemap
-
-- robots.txt
-
-- Fast Loading
-
-- Accessibility (WCAG)
-
----
-
-## UI/UX
-
-Use:
-
-- Rounded cards
-
-- Glassmorphism effects
-
-- Soft shadows
-
-- Smooth animations
-
-- Hover effects
-
-- Loading skeletons
-
-- Toast notifications
-
-- Professional icons
-
-- Responsive layouts
-
-Color Palette
-
-Primary:
-
-#1E88E5
-
-Secondary:
-
-#0D47A1
-
-Accent:
-
-#FFC107
-
-Neutral:
-
-White
-
-Light Gray
-
-Dark Gray
-
-Typography:
-
-Modern sans-serif font with excellent readability.
-
----
-
-## Performance
-
-Code splitting
-
-Lazy loading
-
-Optimized images
-
-Reusable components
-
-Clean architecture
-
-Type-safe code
-
-Error boundaries
-
-Form validation
-
-Accessibility
-
----
-
-## Future Ready
-
-Prepare the architecture for:
-
-- Mobile App
-
-- Loyalty Program
-
-- Referral System
-
-- QR Code Check-in
-
-- Gift Cards
-
-- Fleet Management
-
-- Multi-location Support
-
-- Live Chat
-
-- AI-powered booking assistant
-
----
-
-## Deliverables
-
-Generate:
-
-- Complete React application
-
-- Responsive UI
-
-- Organized folder structure
-
-- Reusable components
-
-- Dummy data
-
-- TypeScript interfaces
-
-- Clean code
-
-- Professional animations
-
-- Sample images/placeholders
-
-- Ready for backend integration
-
-- Production-ready quality
-
-This project was built with [Lovable](https://lovable.dev).
-
-**Live app**: https://eltons-car-wash.lovable.app
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/827b5873-6908-43bc-9402-7e3070908f96).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+# Sparkle Car Wash
+
+A modern, responsive, production-ready website for a premium car wash business. Built with React, TypeScript, Tailwind CSS, and TanStack Start.
+
+![Sparkle Car Wash](public/og-image.jpg)
+
+## Features
+
+- **Public Pages**: Home, Services, Pricing, Online Booking, Membership Plans, Gallery, Reviews, About Us, and Contact.
+- **Customer Dashboard**: View upcoming bookings, loyalty points, and manage profile.
+- **Admin Dashboard**: Analytics, booking management, customers, and payments scaffold.
+- **Design System**: Premium glassmorphism UI with a blue/gold brand palette.
+- **SEO**: Server-side sitemap, robots.txt, JSON-LD, and per-route metadata.
+
+## Tech Stack
+
+- **Framework**: [TanStack Start](https://tanstack.com/start) (React 19 + SSR/SSG)
+- **Router**: [TanStack Router](https://tanstack.com/router) (file-based routing)
+- **Build Tool**: Vite 7
+- **Styling**: Tailwind CSS v4
+- **Language**: TypeScript
+- **UI Components**: Radix UI primitives + shadcn/ui patterns
+- **Charts**: Recharts
+- **Date Picker**: react-day-picker
+- **Icons**: Lucide React
+
+## Design System
+
+The brand palette uses OKLCH color tokens for perceptually uniform theming:
+
+| Token | Hex | Usage |
+| --- | --- | --- |
+| `--primary` | `#1E88E5` | Links, buttons, highlights |
+| `--secondary` | `#0D47A1` | Deep backgrounds, headings |
+| `--accent` | `#FFC107` | CTAs, ratings, badges |
+| `--background` | `#0A0F1C` | Main page background |
+| `--surface` | `rgba(255,255,255,0.06)` | Glassmorphism cards |
+
+See `src/styles.css` for the full token set and utility definitions.
+
+## Project Structure
+
+```text
+src/
+  components/        # Reusable UI components and site chrome
+  lib/               # Data models, mock data, and utilities
+  routes/            # TanStack file-based routes
+  assets/            # Local images and brand assets
+  styles.css         # Global design tokens and Tailwind imports
+public/              # Static files (robots.txt, favicon, etc.)
+```
+
+Key routes:
+
+| Route | File |
+| --- | --- |
+| `/` | `src/routes/index.tsx` |
+| `/services` | `src/routes/services.tsx` |
+| `/pricing` | `src/routes/pricing.tsx` |
+| `/booking` | `src/routes/booking.tsx` |
+| `/membership` | `src/routes/membership.tsx` |
+| `/gallery` | `src/routes/gallery.tsx` |
+| `/reviews` | `src/routes/reviews.tsx` |
+| `/about` | `src/routes/about.tsx` |
+| `/contact` | `src/routes/contact.tsx` |
+| `/account` | `src/routes/account.tsx` |
+| `/admin` | `src/routes/admin.tsx` |
 
 ## Development
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+### Prerequisites
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+- Node.js 20+ (recommended via [nvm](https://github.com/nvm-sh/nvm))
+- bun or npm
+
+### Install dependencies
+
+```bash
+bun install
+# or
+npm install
+```
+
+### Run the dev server
+
+```bash
+bun run dev
+# or
 npm run dev
 ```
+
+The app runs at `http://localhost:8080`.
+
+### Build for production
+
+```bash
+bun run build
+# or
+npm run build
+```
+
+## Deployment
+
+This project is optimized for edge deployment via Lovable Cloud. To publish:
+
+1. Open the project in the [Lovable editor](https://lovable.dev).
+2. Click **Publish** in the top-right corner.
+3. Lovable builds and deploys the site to a live URL.
+
+To connect the project to GitHub for two-way sync:
+
+1. Open the project in the Lovable editor.
+2. Go to **Settings > GitHub** and connect your repository.
+3. Lovable will push commits automatically and sync changes back from the repo.
+
+## SEO
+
+- `public/robots.txt` — allows all crawlers and points to the sitemap.
+- `src/routes/sitemap[.]xml.ts` — server-side dynamic sitemap generation.
+- Each route exports a `head()` object with unique title, description, Open Graph, and Twitter tags.
+
+## License
+
+This project is built and owned by the creator. See the repository license for usage rights.
+
+---
+
+Built with [Lovable](https://lovable.dev).
